@@ -1,0 +1,30 @@
+Additional: Bổ xung
+Admit: Thừa nhận
+Agree: Đồng ý
+Announce: Thông báo
+Apologize: Xin lỗi
+Approve: Cho phép
+Argue: Tranh luận
+Blame: Khiển trách
+Brief: Tóm tắt
+Brochure: Quyển sách nhỏ
+Certain: Chắc chắn
+Comma: Dấu phẩy
+Complaint: Phàn nàn
+Complete: Hoàn thành
+Conference: Tham chiếu, tham khảo
+Confirm: Xác nhận
+Contact: Liên hệ
+Convince: Thuyết phục về cái gì.
+Discuss: Bàn luận
+Extreme: Cực kỳ
+Hint: Gợi ý
+Include: Bao gồm
+Interact: Tương tác
+Need: Cần
+Order: Gọi/Đặt đồ
+Postcard: Bưu phẩm
+Prepare: Chuẩn bị
+Reason: Lý do
+Stamp: Con tem
+Whole: Toàn bộ
