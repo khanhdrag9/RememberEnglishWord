@@ -28,3 +28,5 @@ Prepare: Chuẩn bị
 Reason: Lý do
 Stamp: Con tem
 Whole: Toàn bộ
+Hurry: Vội vã
+Initial: Bàn đầu
