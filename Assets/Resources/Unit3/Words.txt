@@ -1,0 +1,30 @@
+Address: Địa chỉ
+Advice: Khuyên
+Annual: Thường niên
+Appear: Xuất hiện
+Applause: Vỗ tay
+Appointment: Cuộc hẹn
+Borrow: Mượn
+Bother: Làm phiền
+Claim: yêu cầu, xin
+Client: Khách hàng
+Conversation: Cuộc trò chuyện
+Deny: Phủ nhận
+Depress: Trầm cảm
+Diary: Nhật ký
+Forget: Quên
+Invite: Mời
+Later: Lúc sau, lúc khác
+Matter: Vấn đề
+Obtain: Đạt được
+Possess: Sở hữu
+Purpose: Mục đích
+Remember: Nhớ
+Remind: Nhắc nhở
+Rumor: Tin đồn
+Several: Một vài
+Speech: Bài thuyết trình
+Symbol: Ký tự
+Therefore: Vì thế
+Translate: Phiên dịch
+Underline: Gạch dưới

@@ -1,0 +1,29 @@
+Durable: Bền
+Edition: Phiên bản
+Element: Nguyên tố, thành phần(cần thiết)
+Elevator: Thang máy
+Equipment: Thiết bị
+Experiment: Thí nghiệm
+Former: Cũ (phiên bản trước)
+Fulfill: Hoàn thành
+Fund: Quỹ, vốn
+Gain: Thu được
+General: Chung
+Generate: Tạo ra
+Hammer: Cái búa
+Leak: Rò rỉ
+Perspective: Góc nhìn
+Presume: Đoán rằng (ko có bằng chứng)
+Proof: Chứng cớ
+Proofreader: Người chỉnh sửa bản in(editor)
+Pure: Nguyên bản(thô)
+Range: Phạm vi
+Ray: Tia
+Section: Phần
+Sector: Khu vực, ngành
+Significant: Khá đáng kể
+Skeleton: Bộ xương
+Sleeve: Tay áo
+Sponsor: Tài trợ
+Stuff: Vật nhỏ(ko quan trọng)
+Subject to: Tùy thuộc vào

@@ -1,0 +1,23 @@
+Bacon: Thịt lợn (ba chỉ, xông khói)
+Broccoli: Bông cải xanh
+Cabbage: Cải bắp
+Champagne: Rượu xâm panh
+Cucumber: Dưa chuột
+Dessert: Tráng miệng
+Flour: Bột mì
+Juice: Nước hoa quả
+Lemonade: Nước chanh
+Mint: Bạc hà
+Mushroom: Nấm
+Pepper: Hạt tiêu
+Powder: Bột
+Recipe: Công thức
+Sausage: Lạp xưởng
+Shrimp: Tôm
+Sour: Chua
+Spinach: Rau bina
+Squash: Quả Bí
+Steak: Thịt nướng
+Tuna: Cá hồi
+Vegetarian: Người ăn chay
+Vinegar: Giấm
