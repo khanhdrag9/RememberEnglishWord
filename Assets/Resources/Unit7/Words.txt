@@ -1,0 +1,21 @@
+Appetite: Ngon miệng
+Barbecue: Tiệc nướng
+Beverage: Nước giải khát
+Culinary: Thuộc về bếp núc, Ẩm thực
+Flavor: Hương vị
+Freeze: Đông đá
+Grill: Nướng (với lửa)
+Ingredient: Thành phần
+Kettle: Ấm đun nước
+Mixture: Hỗn hợp
+Mix-up: Trộn
+Refrigerator: Tủ lạnh
+Rib: Sườn
+Roast: Nướng, rang
+Salty: Mặn
+Sample: Ví dụ
+Spice: Gia vị
+Steam: Hơi nước
+Stove: Cái bếp
+Taste: Nếm
+Toast: Bánh mì nướng
