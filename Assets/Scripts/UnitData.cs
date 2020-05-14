@@ -4,5 +4,5 @@
 public class UnitData : ScriptableObject
 {
     public string title;
-    public string fileWords;
+    public string fileWords => $"Unit{name[name.Length - 1]}/Words";
 }
